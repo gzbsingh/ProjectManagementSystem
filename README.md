@@ -17,6 +17,6 @@ Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
 
 ## Features
 - **createProject**: creating project  api.
-- **updateProject**: Page for managing guest profiles.
-- **DeleteProject**: Page for managing bookings.
-- **View**: Search, filter (by location, property type, and host), and sorting (by location and property type) features.
+- **updateProject**: api for update project.
+- **DeleteProject**:api for delete project.
+- **Viewproject**: api for view all projects information.
