@@ -20,6 +20,7 @@ Attached is a very short video walkthrough of all of the features https://drive.
 - **updateProject**: api for update project.
 - **DeleteProject**:api for delete project.
 - **Viewproject**: api for viewing all project information.
+- ** Testing**: Test  service layers and integration end points 
 
 
 ## design decisions or assumptions
@@ -69,6 +70,7 @@ DELETE
 
 - **Back-end**: Java (Spring Boot)
 - **Database**: In Memory h2 database.
-- **Documentation**- Open ai doc (swagger). 
+- **Documentation**- Open ai doc (swagger).
+- **Testing**-Junit ,Mockito.
 
 
