@@ -10,16 +10,16 @@ Backend Application
 ├─ Project_management_System/
 
 ## Video Walkthrough of the project
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
+Attached is a very short video walkthrough of all of the features https://drive.google.com/file/d/1PL7LGL2-G0E4kNOshXeejKWjStAfXqdJ/view?usp=drive_link
 
 ## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
+[Attached is a very short video walkthrough of the codebase [ 5 -10 minutes ]] (https://drive.google.com/file/d/1fbi0Dgj8oD5RG1h1upllptjJvpVeaH0h/view?usp=drive_link)
 
 ## Features
 - **createProject**: creating project  api.
 - **updateProject**: api for update project.
 - **DeleteProject**:api for delete project.
-- **Viewproject**: api for view all projects information.
+- **Viewproject**: api for viewing all project information.
 
 
 ## design decisions or assumptions
@@ -47,7 +47,7 @@ Before running the project, ensure you have the following installed on your syst
 
 ## EndPoints
  GET
-/projects: get list of all projects.
+/projects: get a list of all projects.
 
 PUT
 /projects: update project.
